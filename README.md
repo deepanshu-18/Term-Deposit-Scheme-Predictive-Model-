@@ -28,9 +28,13 @@ scikit-learn: for machine learning algorithms.
 The following machine learning models are implemented and evaluated:
 
 Support Vector Machine (SVM)
+
 Decision Tree Classifier
+
 Random Forest Classifier
+
 Logistic Regression
+
 K Nearest Neighbors (KNN)
 
 
